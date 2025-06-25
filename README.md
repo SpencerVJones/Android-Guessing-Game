@@ -1,4 +1,9 @@
 # Android-Guessing-Game
+ <div align="left">
+	
+  ![Repo Views](https://visitor-badge.laobi.icu/badge?page_id=SpencerVJones/Android-Guessing-Game)
+</div>
+
 This Android application is a simple guessing game where the user has four attempts to guess a combination of four random numbers between 0 and 9.
 
 ## Features
